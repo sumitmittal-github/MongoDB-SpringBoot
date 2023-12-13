@@ -7,7 +7,7 @@
 
 <p> 
 	REST Clients to test the Microservices are - <br/>
-	1. http://localhost:8080/swagger-ui/	:	Swagger-ui
+	1. http://localhost:8080/swagger-ui/	:	Swagger-ui <br/>
 	2. Add chrome extension :	ReqBin HTTP Client (https://reqbin.com/)  <br/>
 	3. Add chrome extension :	Talend API Tester - Free Edition <br/>
 </p>
